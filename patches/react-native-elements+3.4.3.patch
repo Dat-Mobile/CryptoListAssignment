@@ -1,0 +1,17 @@
+diff --git a/node_modules/react-native-elements/dist/searchbar/SearchBar-android.js b/node_modules/react-native-elements/dist/searchbar/SearchBar-android.js
+index fe25d36..62f0e60 100644
+--- a/node_modules/react-native-elements/dist/searchbar/SearchBar-android.js
++++ b/node_modules/react-native-elements/dist/searchbar/SearchBar-android.js
+@@ -82,10 +82,10 @@ class SearchBar extends Component {
+             hasFocus: false,
+             isEmpty: value ? value === '' : true,
+         };
+-        Keyboard.addListener('keyboardDidHide', this._keyboardDidHide);
++        this.didHideSude = Keyboard.addListener('keyboardDidHide', this._keyboardDidHide);
+     }
+     componentWillUnmount() {
+-        Keyboard.removeListener('keyboardDidHide', this._keyboardDidHide);
++        this.didHideSude?.remove();
+     }
+     render() {
+         var _a;
