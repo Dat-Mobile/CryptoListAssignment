@@ -11,6 +11,10 @@ Crypto & Fiat List demo application using React Native 0.78.2, React 19.0.0, rea
 - Fiat List B: display list of available fiat
 - Show purchasable: display list of purchasable items
 
+<br />Screenshots<br /><br />
+<img src="screenshot-1.png" height="600">
+<img src="screenshot-2.png" height="600"><br /><br />
+
 Try it out at<br />
 https://drive.google.com/file/d/1WK7qYhdwHkfEyoqcQhyKjLkjeAhgisHe/view?usp=drive_link
 
