@@ -9,6 +9,25 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-CryptoListAssignment.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-CryptoListAssignment.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		430E5B1A2DAB83C3009AB3E1 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B072DA68B00009AB3E1 /* AntDesign.ttf */; };
+		430E5B1B2DAB83C3009AB3E1 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B082DA68B00009AB3E1 /* Entypo.ttf */; };
+		430E5B1C2DAB83C3009AB3E1 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B092DA68B00009AB3E1 /* EvilIcons.ttf */; };
+		430E5B1D2DAB83C3009AB3E1 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B0A2DA68B00009AB3E1 /* Feather.ttf */; };
+		430E5B1E2DAB83C3009AB3E1 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B0B2DA68B00009AB3E1 /* FontAwesome.ttf */; };
+		430E5B1F2DAB83C3009AB3E1 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B0C2DA68B00009AB3E1 /* FontAwesome5_Brands.ttf */; };
+		430E5B202DAB83C3009AB3E1 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B0D2DA68B00009AB3E1 /* FontAwesome5_Regular.ttf */; };
+		430E5B212DAB83C3009AB3E1 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B0E2DA68B00009AB3E1 /* FontAwesome5_Solid.ttf */; };
+		430E5B222DAB83C3009AB3E1 /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B0F2DA68B00009AB3E1 /* FontAwesome6_Brands.ttf */; };
+		430E5B232DAB83C3009AB3E1 /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B102DA68B00009AB3E1 /* FontAwesome6_Regular.ttf */; };
+		430E5B242DAB83C3009AB3E1 /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B112DA68B00009AB3E1 /* FontAwesome6_Solid.ttf */; };
+		430E5B252DAB83C3009AB3E1 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B122DA68B00009AB3E1 /* Fontisto.ttf */; };
+		430E5B262DAB83C3009AB3E1 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B132DA68B00009AB3E1 /* Foundation.ttf */; };
+		430E5B272DAB83C3009AB3E1 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B142DA68B00009AB3E1 /* Ionicons.ttf */; };
+		430E5B282DAB83C3009AB3E1 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B152DA68B00009AB3E1 /* MaterialCommunityIcons.ttf */; };
+		430E5B292DAB83C3009AB3E1 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B162DA68B00009AB3E1 /* MaterialIcons.ttf */; };
+		430E5B2A2DAB83C3009AB3E1 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B172DA68B00009AB3E1 /* Octicons.ttf */; };
+		430E5B2B2DAB83C3009AB3E1 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B182DA68B00009AB3E1 /* SimpleLineIcons.ttf */; };
+		430E5B2C2DAB83C3009AB3E1 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 430E5B192DA68B00009AB3E1 /* Zocial.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		7747C3DD5D82CF6594499821 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
@@ -204,6 +223,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				430E5B1A2DAB83C3009AB3E1 /* AntDesign.ttf in Resources */,
+				430E5B1B2DAB83C3009AB3E1 /* Entypo.ttf in Resources */,
+				430E5B1C2DAB83C3009AB3E1 /* EvilIcons.ttf in Resources */,
+				430E5B1D2DAB83C3009AB3E1 /* Feather.ttf in Resources */,
+				430E5B1E2DAB83C3009AB3E1 /* FontAwesome.ttf in Resources */,
+				430E5B1F2DAB83C3009AB3E1 /* FontAwesome5_Brands.ttf in Resources */,
+				430E5B202DAB83C3009AB3E1 /* FontAwesome5_Regular.ttf in Resources */,
+				430E5B212DAB83C3009AB3E1 /* FontAwesome5_Solid.ttf in Resources */,
+				430E5B222DAB83C3009AB3E1 /* FontAwesome6_Brands.ttf in Resources */,
+				430E5B232DAB83C3009AB3E1 /* FontAwesome6_Regular.ttf in Resources */,
+				430E5B242DAB83C3009AB3E1 /* FontAwesome6_Solid.ttf in Resources */,
+				430E5B252DAB83C3009AB3E1 /* Fontisto.ttf in Resources */,
+				430E5B262DAB83C3009AB3E1 /* Foundation.ttf in Resources */,
+				430E5B272DAB83C3009AB3E1 /* Ionicons.ttf in Resources */,
+				430E5B282DAB83C3009AB3E1 /* MaterialCommunityIcons.ttf in Resources */,
+				430E5B292DAB83C3009AB3E1 /* MaterialIcons.ttf in Resources */,
+				430E5B2A2DAB83C3009AB3E1 /* Octicons.ttf in Resources */,
+				430E5B2B2DAB83C3009AB3E1 /* SimpleLineIcons.ttf in Resources */,
+				430E5B2C2DAB83C3009AB3E1 /* Zocial.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				7747C3DD5D82CF6594499821 /* PrivacyInfo.xcprivacy in Resources */,
@@ -237,9 +275,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CryptoListAssignment/Pods-CryptoListAssignment-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CryptoListAssignment/Pods-CryptoListAssignment-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -276,9 +318,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CryptoListAssignment/Pods-CryptoListAssignment-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-CryptoListAssignment/Pods-CryptoListAssignment-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -422,10 +468,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -494,10 +537,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
